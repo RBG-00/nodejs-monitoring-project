@@ -17,7 +17,7 @@ This project demonstrates a complete DevOps and Monitoring workflow using:
 
 # Project Architecture
 
-![Architecture](./images/architecture.png)
+![Architecture](./image/architecture.png)
 
 ---
 
